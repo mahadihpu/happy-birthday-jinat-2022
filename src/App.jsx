@@ -76,7 +76,7 @@ function App() {
             style={{ margin: '0 auto' }}
           />
          </Box>
-          <p>
+          <p style={{padding: '0px 10px'}}>
             My only wish for you is for you to be happy for the rest of your
             life. You should know that, you are an amazing person and you
             derserve all the happiness of the world.
